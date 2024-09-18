@@ -1,5 +1,3 @@
-# cneko README
-
 ##Preview##
 
 Extension: Login page
